@@ -57,7 +57,7 @@ void list::addnode() /*Menambah sebuah Node kedalam list*/
 
 	current = START;
 	previous = START;
-
+	
 
 	while ((current != NULL) && (nim >= current->noMhs))
 	{
