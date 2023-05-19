@@ -21,7 +21,7 @@ public:
 	bool listEmpty();
 	bool delNode(int element);
 	void traverse();
-
+	
 };
 
 
